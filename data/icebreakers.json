@@ -526,5 +526,17 @@
     "instructions": "Ask everyone to remember the first record, cassette, CD or digital track or album they bought with their own money.|Invite each person to name the artist and song or album, and share why they chose it.|Optionally ask whether they still listen to it or would rather erase the evidence.",
     "tip": "This one often reveals generational differences and unexpected musical tastes. If someone hasn't bought music, ask about the first song or album they remember owning.",
     "active": true
+  },
+  {
+    "id": "IB045",
+    "title": "Draw a Monster",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Draw a monster in 60 seconds. Give it a name, a completely useless superpower and one irrational fear, then introduce your creation to the group.",
+    "instructions": "Give everyone paper and a pen, and set a 60-second timer to draw a monster.|Ask everyone to give their monster a name, a completely useless superpower and one irrational fear.|Invite people to show their drawings and introduce their monsters in about 30 seconds each.|Enjoy the wonderfully questionable artwork. No drawing ability required.",
+    "tip": "Lead with your own gloriously bad example. Keep it light and avoid judging artistic ability. In a larger group, share in smaller groups to keep within ten minutes.",
+    "active": true
   }
 ]
