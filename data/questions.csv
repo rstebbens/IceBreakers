@@ -1,7 +1,34 @@
 activityId,question,active
-IB003,What is something you've enjoyed learning recently?,TRUE
+IB003,What's something small that made you smile this week?,TRUE
+IB003,What do you enjoy doing when you're not working?,TRUE
+IB003,What's a place you'd happily visit again?,TRUE
+IB003,What's something you've enjoyed learning recently?,TRUE
 IB003,What does a really good day look like for you?,TRUE
-IB003,What is something people often misunderstand about you?,TRUE
+IB003,What's a food you could happily eat every week?,TRUE
+IB003,What's a skill you'd love to learn just for fun?,TRUE
+IB003,What's the best recommendation someone has given you?,TRUE
+IB003,What's something people might be surprised to learn about you?,TRUE
+IB003,What are you looking forward to?,TRUE
+IB003,What was your favourite way to spend a day when you were younger?,TRUE
+IB003,What's a small tradition or routine you really enjoy?,TRUE
+IB003,What's a hobby or interest you'd like to make more time for?,TRUE
+IB003,"Who has taught you something useful, and what was it?",TRUE
+IB003,What's something you've changed your mind about over the years?,TRUE
+IB003,What's a challenge you've overcome that taught you something?,TRUE
+IB003,What kind of environment helps you do your best thinking?,TRUE
+IB003,What's something you appreciate in a good teammate?,TRUE
+IB003,When do you feel most energised or engaged?,TRUE
+IB003,What's something you've done recently that you're quietly proud of?,TRUE
+IB003,What's one thing you wish more people understood about your work?,TRUE
+IB003,What's a piece of advice that's stayed with you?,TRUE
+IB003,What's a strength you admire in other people?,TRUE
+IB003,What helps you feel included in a new group?,TRUE
+IB003,What's something you'd like to get better at this year?,TRUE
+IB003,What's a moment when someone made a real difference to your day?,TRUE
+IB003,What do you value most in a friendship or working relationship?,TRUE
+IB003,What's one thing your colleagues could do to make collaboration easier for you?,TRUE
+IB003,What have you learnt about yourself from working with different people?,TRUE
+IB003,What's one thing you'd like people to remember about working with you?,TRUE
 IB006,Would you rather pause time for 10 seconds or rewind it for 30 seconds?,TRUE
 IB006,Would you rather fight 100 duck-sized horses or one horse-sized duck?,TRUE
 IB006,Would you rather fight 100 ducks or one human-sized duck?,TRUE
@@ -58,6 +85,3 @@ IB006,Would you rather have to wear a cape to every meeting or announce yourself
 IB006,Would you rather have a button that mutes one person for a minute or one that skips any meeting's first five minutes?,TRUE
 IB006,Would you rather be able to make any plant grow instantly or make any queue disappear?,TRUE
 IB006,Would you rather have a miniature giraffe as a pet or a giant butterfly as your transport?,TRUE
-IB003,What are you looking forward to?,TRUE
-IB006,Would you rather always be 10 minutes early or 10 minutes late?,TRUE
-IB006,Would you rather speak every language or play every instrument?,TRUE
