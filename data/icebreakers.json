@@ -226,5 +226,17 @@
     "instructions": "Give everyone a minute to think of the best and worst advice they've received.|Invite each person to share one or both examples and explain why they stuck.|If time allows, ask whether they followed the advice and what happened.",
     "tip": "Go first with a light-hearted example. Let people pass on either question, as advice can be tied to personal experiences. Avoid judging the people who originally gave it.",
     "active": true
+  },
+  {
+    "id": "IB020",
+    "title": "What's Your Earliest Memory?",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's the earliest thing you can remember? A place, a person, a sound, a moment or a tiny detail that has somehow stayed with you.",
+    "instructions": "Give everyone a minute to think back to their earliest memory.|Invite each person to share the memory and roughly how old they think they were.|If they wish, ask what makes that particular moment memorable.",
+    "tip": "Memories can be personal or uncertain. Make sharing optional, avoid challenging anyone's recollection, and offer 'an early happy memory' as an alternative prompt.",
+    "active": true
   }
 ]
