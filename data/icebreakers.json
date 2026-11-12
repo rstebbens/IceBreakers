@@ -30,9 +30,9 @@
     "duration": 15,
     "minPeople": 2,
     "maxPeople": 30,
-    "description": "Build familiarity through progressively meaningful questions.",
-    "instructions": "Pair up.|Ask a sequence of questions.|Let both people answer.|Close without requiring personal disclosures.",
-    "tip": "Allow people to pass. Timing assumes around 10 participants. Pairs answer simultaneously, so the duration scales well to larger groups.",
+    "description": "Get to know someone through a sequence of workplace-friendly questions that gradually become more thoughtful.",
+    "instructions": "Pair up with someone you know less well.|Start at question one and work through the prompts in order, taking turns to answer each one.|Spend about a minute per question between you; choose 6–10 questions for a 15-minute session.|Finish with one thing you learnt about your partner, if they're happy for you to share.",
+    "tip": "The 30-question bank is inspired by the progressive Fast Friends format, not a reproduction of the original research questions. Questions become more reflective as you go, so don't shuffle them. Anyone can skip a question, and personal answers stay within the pair unless agreed otherwise.",
     "active": true
   },
   {
