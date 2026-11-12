@@ -382,5 +382,17 @@
     "instructions": "Introduce the metaphor: 'If there's an elephant around this team, where is it sitting?' Make clear that nobody has to explain their choice.|Show everyone the six options and their meanings: IN THE CORNER — We all know something's there, but we're doing a pretty good job of ignoring it; IN THE DOORWAY — Something's getting in the way of us moving forward; ON THE TABLE — It's obvious. We're practically working around it, but nobody's addressing it; BEHIND THE CURTAIN — Something doesn't feel quite right, but I can't put my finger on it; OUTSIDE THE BUILDING — There are issues, but they're not really within this team's control; WHAT ELEPHANT? — Nothing significant is bothering me.|Ask each person to choose one option privately. Collect answers anonymously using a poll, cards or sticky notes without names.|Reveal the distribution and give the group a moment to notice what it suggests. Invite observations, not explanations or guesses about who chose what.|Ask whether the group wants to explore anything further, now or in a separate conversation. Respect a decision not to disclose.",
     "tip": "Anonymity matters more than clever facilitation. Don't ask anyone to justify their answer or identify an elephant. Avoid showing results in ways that expose individuals in very small groups. This is a temperature check, not a licence to force a difficult conversation.",
     "active": true
+  },
+  {
+    "id": "IB033",
+    "title": "What Was Your First Job?",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What was your very first paid job? Share what you did, how you ended up doing it and, if you're happy to say, how much you got paid.",
+    "instructions": "Ask everyone to think back to their first paid job, whether it was a paper round, weekend shift, summer job or something more unusual.|Invite each person to share what the job was and one thing they remember about it.|Optionally ask: 'How much did you get paid?' Make it clear that sharing pay is entirely voluntary.|Enjoy the differences in jobs, eras and currencies without turning it into a competition.",
+    "tip": "The pay question is optional, not a requirement. Some people may never have had paid employment, so welcome first volunteering roles or other early responsibilities too. For a group of 10, aim for about 45 seconds per person.",
+    "active": true
   }
 ]
