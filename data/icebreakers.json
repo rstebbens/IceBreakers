@@ -286,5 +286,53 @@
     "instructions": "Give everyone 30–60 seconds to find a nearby object that means something to them.|Invite each person to show the object and explain why they chose it in about 30 seconds.|Ask one or two curious follow-up questions if time allows.",
     "tip": "Particularly good for remote meetings. Let people describe an object if they can't retrieve it or prefer not to show their surroundings. For groups over 10, use breakout rooms or keep responses brief.",
     "active": true
+  },
+  {
+    "id": "IB025",
+    "title": "The Last Photo",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Show the last photograph you took on your phone that you're comfortable sharing, and tell us the story behind it.",
+    "instructions": "Ask everyone to look at their recent photos and choose one they're happy to share.|Give people a minute to find a photo.|Invite each person to show or describe the photo and share its story in around 30–45 seconds.",
+    "tip": "Privacy first: nobody should feel obliged to reveal a personal photo, location or other people's faces. Allow participants to describe a photo instead. For groups over 10, share in smaller groups.",
+    "active": true
+  },
+  {
+    "id": "IB026",
+    "title": "The Accidental Purchase",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's the strangest, most unnecessary or most regrettable thing you've ever bought? What possessed you?",
+    "instructions": "Give everyone 30 seconds to remember an unusual purchase.|Take turns describing what they bought and why.|Invite a few follow-up questions, such as whether they still own it or if it turned out to be surprisingly useful.",
+    "tip": "Keep it light and avoid judgement about spending. People can choose a funny or inexpensive purchase. Use smaller groups if everyone wants to tell a longer story.",
+    "active": true
+  },
+  {
+    "id": "IB027",
+    "title": "My Personal Warning Label",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "If you came with a warning label, what would it say? Invent a funny, affectionate disclaimer about yourself.",
+    "instructions": "Give everyone one minute to invent a short warning label for themselves.|Invite each person to read their label aloud.|If they want, ask them to explain the story behind it.",
+    "tip": "Model a self-deprecating but kind example, such as 'May start explaining spreadsheets without warning.' Keep it voluntary and steer away from labels about other people.",
+    "active": true
+  },
+  {
+    "id": "IB028",
+    "title": "The Soundtrack to My Life",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What song would play whenever you entered a room, and why does it suit you?",
+    "instructions": "Give everyone a minute to choose their entrance song.|Invite each person to name the song and explain their choice in a sentence or two.|Optionally collect the songs into a shared playlist after the meeting.",
+    "tip": "Don't require anyone to sing or play copyrighted music. People can simply name the song. For larger groups, collect answers in chat and discuss a few.",
+    "active": true
   }
 ]
