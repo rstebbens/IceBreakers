@@ -238,5 +238,17 @@
     "instructions": "Give everyone a minute to think back to their earliest memory.|Invite each person to share the memory and roughly how old they think they were.|If they wish, ask what makes that particular moment memorable.",
     "tip": "Memories can be personal or uncertain. Make sharing optional, avoid challenging anyone's recollection, and offer 'an early happy memory' as an alternative prompt.",
     "active": true
+  },
+  {
+    "id": "IB021",
+    "title": "Desert Island: Three Things",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "You're stranded on a desert island and can take only three things. What do you choose, and why?",
+    "instructions": "Set the scene: you're stranded on a desert island and can bring only three physical items.|Give everyone one minute to choose their three things.|Invite each person to reveal their choices and explain the thinking behind them.|Optionally ask which one item they'd give up if they had to.",
+    "tip": "Agree whether rescue is possible and whether essentials such as food and water are already provided. Otherwise everyone may choose a satellite phone, water purifier and boat. Encourage creative answers rather than debating survival expertise.",
+    "active": true
   }
 ]
