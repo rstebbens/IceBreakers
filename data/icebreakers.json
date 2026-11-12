@@ -178,5 +178,17 @@
     "instructions": "Ask everyone to think of one thing they learned or discovered recently.|Give them 30 seconds to choose their example.|Invite each person to share their discovery and, if they like, how they found it.|Allow a couple of curious follow-up questions if time permits.",
     "tip": "Keep the bar low. A tiny everyday discovery is just as welcome as a profound insight. Don't turn it into a knowledge test.",
     "active": true
+  },
+  {
+    "id": "IB016",
+    "title": "Left Hand, Right Hand",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 3,
+    "maxPeople": 30,
+    "description": "Look to your left and discover an interesting fact about that person. Then turn to your right and introduce the person on your left, sharing what you learned.",
+    "instructions": "Arrange everyone in a circle or a clear seating order.|Ask each person to turn to their left and find out one interesting fact about that neighbour.|Give pairs two minutes to chat.|Now ask everyone to turn to their right and introduce the person they just spoke to on their left, sharing their interesting fact with the person on their right.|If time allows, invite a few memorable introductions to be shared with the whole group.",
+    "tip": "Check the directions before starting: everyone should learn about the person on their left, then tell the person on their right. For remote meetings, assign a circular order of names. Let people choose a fact they're comfortable sharing.",
+    "active": true
   }
 ]
