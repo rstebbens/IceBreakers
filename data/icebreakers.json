@@ -190,5 +190,17 @@
     "instructions": "Arrange everyone in a circle or a clear seating order.|Ask each person to turn to their left and find out one interesting fact about that neighbour.|Give pairs two minutes to chat.|Now ask everyone to turn to their right and introduce the person they just spoke to on their left, sharing their interesting fact with the person on their right.|If time allows, invite a few memorable introductions to be shared with the whole group.",
     "tip": "Check the directions before starting: everyone should learn about the person on their left, then tell the person on their right. For remote meetings, assign a circular order of names. Let people choose a fact they're comfortable sharing.",
     "active": true
+  },
+  {
+    "id": "IB017",
+    "title": "What Would Be on Your Tombstone?",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "If you could write your own tombstone inscription, what would it say? Make it funny, thoughtful or wonderfully absurd.",
+    "instructions": "Invite everyone to imagine the inscription they'd choose for their own tombstone.|Give them one minute to invent a short epitaph, ideally no more than a sentence.|Take turns sharing the inscriptions and, if they wish, the story behind them.",
+    "tip": "Lead with a light-hearted example such as 'I told you I was ill.' Death-related humour isn't comfortable for everyone, so make participation optional and offer an alternative: 'What would your fictional biography's final line be?'",
+    "active": true
   }
 ]
