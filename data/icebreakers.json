@@ -394,5 +394,17 @@
     "instructions": "Ask everyone to think back to their first paid job, whether it was a paper round, weekend shift, summer job or something more unusual.|Invite each person to share what the job was and one thing they remember about it.|Optionally ask: 'How much did you get paid?' Make it clear that sharing pay is entirely voluntary.|Enjoy the differences in jobs, eras and currencies without turning it into a competition.",
     "tip": "The pay question is optional, not a requirement. Some people may never have had paid employment, so welcome first volunteering roles or other early responsibilities too. For a group of 10, aim for about 45 seconds per person.",
     "active": true
+  },
+  {
+    "id": "IB034",
+    "title": "If You Were an Animal…",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "If you were an animal, what would you be and why? Your choice might say something about your personality, habits or how you see yourself.",
+    "instructions": "Ask everyone: 'If you were an animal, what would you be and why?'|Give people 30 seconds to think of an animal and their reason for choosing it.|Go around the group and invite each person to share their animal and explanation.|Allow a curious follow-up or two if a particularly unexpected choice sparks conversation.",
+    "tip": "The 'why' is the interesting part. Encourage playful or surprising answers rather than analysing anyone's personality. With around 10 participants, allow roughly 45 seconds per person.",
+    "active": true
   }
 ]
