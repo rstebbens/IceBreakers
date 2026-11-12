@@ -466,5 +466,65 @@
     "instructions": "Read out one divisive question and give everyone a moment to choose a side. Everyone votes at the same time, by raising a hand or moving to opposite sides of the room.|Ask someone in the minority to defend their position in 30 seconds. The majority gets 15 seconds to respond.|Repeat with three or four questions, keeping the debate light and moving quickly.|Example questions: Should the toilet roll hang over or under?; Is cereal a soup?; Should you put milk in before or after the tea?; Is it acceptable to wear socks with sandals?; Is a hot dog a sandwich?; Should you refrigerate ketchup?; Is it acceptable to clap when a plane lands?; Is it acceptable to eat pizza with a knife and fork?; Is Die Hard a Christmas film?.",
     "tip": "The minority isn't necessarily wrong! Avoid personal or political questions, and don't force anyone to defend a view. For an even split, invite one volunteer from each side.",
     "active": true
+  },
+  {
+    "id": "IB040",
+    "title": "The First Concert",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What was the first concert you ever attended? Who did you see, and what do you remember about it?",
+    "instructions": "Ask everyone to think back to their first concert or live music performance.|Invite each person to share the artist, where they saw them and one memory from the experience.|Enjoy the unexpected revelations and changing musical tastes.",
+    "tip": "No need to be embarrassed by the artist. If someone has never been to a concert, invite them to share the first live performance they remember or one they'd love to attend.",
+    "active": true
+  },
+  {
+    "id": "IB041",
+    "title": "When I Grow Up…",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What did you want to be when you grew up? How close did you get to that childhood ambition?",
+    "instructions": "Ask everyone to remember what they wanted to be when they grew up.|Go around the group and invite each person to share their childhood ambition.|Optionally ask how their actual career compares with the original plan.",
+    "tip": "Keep it light and curious. People can share a childhood dream without explaining personal career choices.",
+    "active": true
+  },
+  {
+    "id": "IB042",
+    "title": "The Souvenir Story",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's the strangest souvenir you've ever brought home, and why did you buy it?",
+    "instructions": "Give everyone a moment to remember an unusual souvenir they've bought or been given.|Invite people to share what it was, where it came from and why it ended up coming home.|Welcome the stories behind the objects, particularly the ones that made perfect sense at the time.",
+    "tip": "No physical souvenir required. If someone doesn't collect souvenirs, they can describe the oddest gift or keepsake they've received.",
+    "active": true
+  },
+  {
+    "id": "IB043",
+    "title": "My Completely Useless Talent",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's a skill you possess that's impressive to absolutely nobody? Demonstrations encouraged, but optional.",
+    "instructions": "Ask everyone to think of a peculiar, niche or spectacularly unhelpful skill they have.|Go around the group and invite each person to reveal their talent.|Offer a chance to demonstrate, but only if they want to.",
+    "tip": "Set the tone with a silly example. Don't pressure anyone to perform; a good description is enough.",
+    "active": true
+  },
+  {
+    "id": "IB044",
+    "title": "The First Record I Bought",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What was the first record you ever bought? Vinyl, cassette, CD or digital download all count. Do you still stand by your choice?",
+    "instructions": "Ask everyone to remember the first record, cassette, CD or digital track or album they bought with their own money.|Invite each person to name the artist and song or album, and share why they chose it.|Optionally ask whether they still listen to it or would rather erase the evidence.",
+    "tip": "This one often reveals generational differences and unexpected musical tastes. If someone hasn't bought music, ask about the first song or album they remember owning.",
+    "active": true
   }
 ]
