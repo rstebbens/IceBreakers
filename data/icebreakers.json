@@ -118,5 +118,17 @@
     "instructions": "Draw two axes: sprint timeline (X) and mood or energy, low to high (Y).|Give everyone 3–5 minutes to draw their own line showing how they felt at different points in the sprint.|Invite people to share their curves and explain one high point, one low point or a turning point.|Look for shared patterns and discuss what helped, what hindered and what to change next sprint.",
     "tip": "Avoid treating the curves as performance ratings. People can share as much or as little as they wish; focus on what the team can learn rather than explaining away someone's experience.",
     "active": true
+  },
+  {
+    "id": "IB011",
+    "title": "Your Mood Forecast",
+    "category": "Reflective",
+    "duration": 5,
+    "minPeople": 2,
+    "maxPeople": 40,
+    "description": "If your mood today were the weather, what would the forecast be? Sunny spells, scattered showers, a passing storm or something entirely unexpected?",
+    "instructions": "Ask everyone to imagine their mood as a weather forecast.|Give them 20–30 seconds to think of a forecast, optionally including what might change later in the day.|Invite each person to share their forecast in one or two sentences.|Acknowledge the forecasts without trying to fix anyone's weather.",
+    "tip": "Model a playful but genuine forecast yourself. Don't pressure anyone to explain why they're feeling that way, and allow people to pass.",
+    "active": true
   }
 ]
