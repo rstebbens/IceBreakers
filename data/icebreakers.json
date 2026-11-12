@@ -142,5 +142,17 @@
     "instructions": "Ask everyone to think of two words that capture the current state of the project.|Combine them into one invented word.|Take turns sharing the new word, its two ingredients and what it means.|Notice any recurring themes and ask what they tell you about the project.",
     "tip": "Offer an example such as 'chaoptimism' (chaos + optimism). Let people be funny or candid, but avoid turning the exercise into a blame session.",
     "active": true
+  },
+  {
+    "id": "IB013",
+    "title": "Let Your Memes Be Dreams",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Use a meme to communicate how your day is going. Find one, make one, or describe the perfect meme if you can't find it.",
+    "instructions": "Give everyone two minutes to find or create a meme that captures their day so far.|Invite people to post their meme in the meeting chat or shared board.|Take turns sharing what the meme says about their day, if they want to.|Notice the mood in the room without turning the check-in into a problem-solving session.",
+    "tip": "Share your own meme first. Keep it workplace-appropriate and accessible: participants can describe a meme instead of sharing an image. Avoid memes that target colleagues or groups.",
+    "active": true
   }
 ]
