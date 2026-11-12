@@ -106,5 +106,17 @@
     "instructions": "Give everyone paper and a pen (or a digital whiteboard).|Set a two-minute timer and ask everyone to draw themselves. No erasing or starting over.|Invite everyone to show their portrait and share one detail about it.",
     "tip": "Draw your own deliberately terrible portrait first. Keep it light, and make sharing optional.",
     "active": true
+  },
+  {
+    "id": "IB010",
+    "title": "Draw the Sprint",
+    "category": "Reflective",
+    "duration": 15,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Sketch an emotional timeline of the sprint. The X-axis represents time from sprint start to finish; the Y-axis represents how you felt, from low to high. Compare the peaks, dips and turning points.",
+    "instructions": "Draw two axes: sprint timeline (X) and mood or energy, low to high (Y).|Give everyone 3–5 minutes to draw their own line showing how they felt at different points in the sprint.|Invite people to share their curves and explain one high point, one low point or a turning point.|Look for shared patterns and discuss what helped, what hindered and what to change next sprint.",
+    "tip": "Avoid treating the curves as performance ratings. People can share as much or as little as they wish; focus on what the team can learn rather than explaining away someone's experience.",
+    "active": true
   }
 ]
