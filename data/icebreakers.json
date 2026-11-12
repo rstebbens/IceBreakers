@@ -1,0 +1,98 @@
+[
+  {
+    "id": "IB001",
+    "title": "Two Truths and a Lie",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 3,
+    "maxPeople": 30,
+    "description": "Share two truths and one lie. Can the group spot the invention?",
+    "instructions": "Think of three statements about yourself: two true and one false.|Share all three without revealing the lie.|Everyone guesses, then reveal the answer.",
+    "tip": "Encourage surprising truths rather than implausible lies.",
+    "active": true
+  },
+  {
+    "id": "IB002",
+    "title": "The Perfect Day",
+    "category": "Thoughtful",
+    "duration": 5,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "You have a day with no responsibilities and enough money to enjoy yourself, but not unlimited money. What do you do?",
+    "instructions": "Give everyone 30 seconds to imagine their day.|Invite each person to describe it.|Ask a curious follow-up.",
+    "tip": "Keep the budget realistic.",
+    "active": true
+  },
+  {
+    "id": "IB003",
+    "title": "Fast Friends",
+    "category": "Connection",
+    "duration": 15,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Build familiarity through progressively meaningful questions.",
+    "instructions": "Pair up.|Ask a sequence of questions.|Let both people answer.|Close without requiring personal disclosures.",
+    "tip": "Allow people to pass.",
+    "active": true
+  },
+  {
+    "id": "IB004",
+    "title": "The Useless Superpower",
+    "category": "Playful",
+    "duration": 5,
+    "minPeople": 3,
+    "maxPeople": 40,
+    "description": "What completely useless superpower would you choose?",
+    "instructions": "Give everyone 20 seconds.|Share the powers.|Vote for the most impressively impractical.",
+    "tip": "Lead with an absurd example.",
+    "active": true
+  },
+  {
+    "id": "IB005",
+    "title": "The Unexpected Expert",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 3,
+    "maxPeople": 25,
+    "description": "What oddly specific subject could you talk about for ten minutes?",
+    "instructions": "Give everyone a minute.|Share subjects.|Invite one curious question per person.",
+    "tip": "Good for teams who know job titles but little else.",
+    "active": true
+  },
+  {
+    "id": "IB006",
+    "title": "Would You Rather?",
+    "category": "Playful",
+    "duration": 5,
+    "minPeople": 3,
+    "maxPeople": 50,
+    "description": "Pick between two entertainingly difficult options.",
+    "instructions": "Read a question.|Everyone commits to one choice.|Ask why.",
+    "tip": "The reasoning is better than the answer.",
+    "active": true
+  },
+  {
+    "id": "IB007",
+    "title": "The Tiny Hill I'll Die On",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 3,
+    "maxPeople": 25,
+    "description": "What trivial opinion would you defend with unreasonable passion?",
+    "instructions": "Choose a harmless opinion.|Defend it in 30 seconds.|Allow friendly rebuttals.",
+    "tip": "Avoid politics and personal attacks.",
+    "active": true
+  },
+  {
+    "id": "IB008",
+    "title": "One Small Win",
+    "category": "Thoughtful",
+    "duration": 5,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's one small thing that has gone well recently?",
+    "instructions": "Reflect briefly.|Take turns sharing.|Acknowledge without turning it into a status meeting.",
+    "tip": "Useful for tired teams.",
+    "active": true
+  }
+]
