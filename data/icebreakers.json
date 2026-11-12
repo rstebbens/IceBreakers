@@ -202,5 +202,17 @@
     "instructions": "Invite everyone to imagine the inscription they'd choose for their own tombstone.|Give them one minute to invent a short epitaph, ideally no more than a sentence.|Take turns sharing the inscriptions and, if they wish, the story behind them.",
     "tip": "Lead with a light-hearted example such as 'I told you I was ill.' Death-related humour isn't comfortable for everyone, so make participation optional and offer an alternative: 'What would your fictional biography's final line be?'",
     "active": true
+  },
+  {
+    "id": "IB018",
+    "title": "What Will You Be Famous For?",
+    "category": "Playful",
+    "duration": 5,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What are you most likely to become famous for? It could be a genuine talent, an unlikely achievement or something gloriously ridiculous.",
+    "instructions": "Give everyone 30 seconds to imagine their future claim to fame.|Invite each person to share what they'd be famous for and why.|If time allows, ask the group to invent a newspaper headline announcing it.",
+    "tip": "Start with an absurd example to give people permission to be imaginative. Avoid turning it into a competition about career success.",
+    "active": true
   }
 ]
