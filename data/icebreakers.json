@@ -262,5 +262,29 @@
     "instructions": "Pair everyone up; for an odd number, make one group of three.|Give each person one minute to think of three positive words that describe their partner.|Take turns sharing your three words and one example or reason behind each.|If time allows, invite everyone to share one word they particularly appreciated hearing.",
     "tip": "Positive vibes only. Encourage specific, genuine observations rather than generic compliments. Make sure people know their partner well enough to offer meaningful words; for new teams, ask for three positive first impressions instead. Timing assumes around 10 participants. Pairs work simultaneously, so the duration scales well.",
     "active": true
+  },
+  {
+    "id": "IB023",
+    "title": "Sell Me This",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 20,
+    "description": "Pick an ordinary object and invent a wildly exaggerated sales pitch for it. Can you convince everyone they absolutely need it?",
+    "instructions": "Ask everyone to grab a nearby everyday object or assign them one.|Give participants one minute to invent a ridiculous 30-second sales pitch.|Take turns pitching the objects, or use groups of four or five for larger teams.|Invite the group to applaud the most imaginative selling point.",
+    "tip": "Go first with an absurd pitch for something mundane. Keep it playful, not a test of presentation skills. With more than 10 participants, use smaller groups so everyone gets a turn.",
+    "active": true
+  },
+  {
+    "id": "IB024",
+    "title": "Show Me Something",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Find an object near you that reveals something about your personality, interests or life, then tell the group its story.",
+    "instructions": "Give everyone 30–60 seconds to find a nearby object that means something to them.|Invite each person to show the object and explain why they chose it in about 30 seconds.|Ask one or two curious follow-up questions if time allows.",
+    "tip": "Particularly good for remote meetings. Let people describe an object if they can't retrieve it or prefer not to show their surroundings. For groups over 10, use breakout rooms or keep responses brief.",
+    "active": true
   }
 ]
