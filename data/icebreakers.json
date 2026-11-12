@@ -130,5 +130,17 @@
     "instructions": "Ask everyone to imagine their mood as a weather forecast.|Give them 20–30 seconds to think of a forecast, optionally including what might change later in the day.|Invite each person to share their forecast in one or two sentences.|Acknowledge the forecasts without trying to fix anyone's weather.",
     "tip": "Model a playful but genuine forecast yourself. Don't pressure anyone to explain why they're feeling that way, and allow people to pass.",
     "active": true
+  },
+  {
+    "id": "IB012",
+    "title": "Project Portmanteau",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Invent a new word to describe how the project is going by smashing two existing words together. Give your creation a definition.",
+    "instructions": "Ask everyone to think of two words that capture the current state of the project.|Combine them into one invented word.|Take turns sharing the new word, its two ingredients and what it means.|Notice any recurring themes and ask what they tell you about the project.",
+    "tip": "Offer an example such as 'chaoptimism' (chaos + optimism). Let people be funny or candid, but avoid turning the exercise into a blame session.",
+    "active": true
   }
 ]
