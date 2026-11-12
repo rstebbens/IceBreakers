@@ -334,5 +334,17 @@
     "instructions": "Give everyone a minute to choose their entrance song.|Invite each person to name the song and explain their choice in a sentence or two.|Optionally collect the songs into a shared playlist after the meeting.",
     "tip": "Don't require anyone to sing or play copyrighted music. People can simply name the song. For larger groups, collect answers in chat and discuss a few.",
     "active": true
+  },
+  {
+    "id": "IB029",
+    "title": "Round of Appreciation",
+    "category": "Connection",
+    "duration": 15,
+    "minPeople": 3,
+    "maxPeople": 30,
+    "description": "Take a moment to recognise someone in the group for something specific they have done or a quality you genuinely appreciate. Small, sincere acknowledgements can reveal the good things we often forget to say aloud.",
+    "instructions": "Explain that everyone is invited to appreciate someone in the group, focusing on a specific action, contribution or quality rather than generic praise.|Give people a minute to think of someone and what they would like to acknowledge.|Go around the group, inviting each person to share a short appreciation, for example: 'I appreciated when you… because…'.|Thank people for sharing. No one needs to respond to praise or return the compliment.",
+    "tip": "Model a brief, genuine example first. Avoid turning it into a popularity contest or requiring everyone to receive equal praise. People can pass, and quieter groups can write appreciations privately. For 10 people, allow about a minute each plus introduction and closing; use smaller groups for larger teams.",
+    "active": true
   }
 ]
