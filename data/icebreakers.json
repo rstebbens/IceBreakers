@@ -430,5 +430,17 @@
     "instructions": "Give everyone a minute to invent an absurd job title for themselves.|Go around the group. Each person introduces themselves using their new title and briefly describes what they do.|Invite one question from someone else about their imaginary responsibilities. The title-holder must answer in character.|Move on to the next person and enjoy the increasingly ridiculous organisational structure.",
     "tip": "Go first with an example to set the tone. Keep the invented roles playful rather than using them to mock a real colleague or team. Allow roughly 45 seconds per person for a group of 10; use smaller groups if there are more participants.",
     "active": true
+  },
+  {
+    "id": "IB037",
+    "title": "Rock, Paper, Scissors Champion",
+    "category": "Playful",
+    "duration": 5,
+    "minPeople": 4,
+    "maxPeople": 60,
+    "description": "A knockout rock-paper-scissors tournament with a twist: when you lose, you become your opponent's enthusiastic cheering squad. The crowd behind each winner grows until one champion remains.",
+    "instructions": "Ask everyone to find a partner and play one round of rock, paper, scissors. Replay ties until someone wins.|The loser becomes the winner's cheering squad, following them and cheering them on.|Winners find other winners and play again. Their supporters join the winning player's entourage after each match.|Keep going until just two players remain, each with a noisy crowd behind them.|Play the grand final and celebrate the champion.",
+    "tip": "Encourage gloriously over-the-top cheering. For an odd number of players, let one person have a bye in the first round. Make cheering optional and allow seated participation.",
+    "active": true
   }
 ]
