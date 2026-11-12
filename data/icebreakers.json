@@ -454,5 +454,17 @@
     "instructions": "Split everyone into groups of three or four.|Give each group three minutes to discover something they all have in common. Working for the same organisation or being in the same meeting doesn't count.|Encourage people to keep digging beyond obvious similarities until they find an unexpected connection.|Bring everyone back together. Each group shares its most surprising common thread.",
     "tip": "A great way to get people talking beyond job titles. If a group struggles, prompt them to explore childhood experiences, unusual skills, travel, food or hobbies. Keep the discoveries light and don't pressure anyone to disclose personal information.",
     "active": true
+  },
+  {
+    "id": "IB039",
+    "title": "The Minority Report",
+    "category": "Playful",
+    "duration": 5,
+    "minPeople": 4,
+    "maxPeople": 40,
+    "description": "Take sides on wonderfully trivial questions, then let the minority defend its position. Strong opinions, absolutely negligible stakes.",
+    "instructions": "Read out one divisive question and give everyone a moment to choose a side. Everyone votes at the same time, by raising a hand or moving to opposite sides of the room.|Ask someone in the minority to defend their position in 30 seconds. The majority gets 15 seconds to respond.|Repeat with three or four questions, keeping the debate light and moving quickly.|Example questions: Should the toilet roll hang over or under?; Is cereal a soup?; Should you put milk in before or after the tea?; Is it acceptable to wear socks with sandals?; Is a hot dog a sandwich?; Should you refrigerate ketchup?; Is it acceptable to clap when a plane lands?; Is it acceptable to eat pizza with a knife and fork?; Is Die Hard a Christmas film?.",
+    "tip": "The minority isn't necessarily wrong! Avoid personal or political questions, and don't force anyone to defend a view. For an even split, invite one volunteer from each side.",
+    "active": true
   }
 ]
