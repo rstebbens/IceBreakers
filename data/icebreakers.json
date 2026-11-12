@@ -250,5 +250,17 @@
     "instructions": "Set the scene: you're stranded on a desert island and can bring only three physical items.|Give everyone one minute to choose their three things.|Invite each person to reveal their choices and explain the thinking behind them.|Optionally ask which one item they'd give up if they had to.",
     "tip": "Agree whether rescue is possible and whether essentials such as food and water are already provided. Otherwise everyone may choose a satellite phone, water purifier and boat. Encourage creative answers rather than debating survival expertise.",
     "active": true
+  },
+  {
+    "id": "IB022",
+    "title": "Three Words for Your Teammate",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "In pairs, choose three positive words that describe your teammate. Share them with each other and explain why you chose them.",
+    "instructions": "Pair everyone up; for an odd number, make one group of three.|Give each person one minute to think of three positive words that describe their partner.|Take turns sharing your three words and one example or reason behind each.|If time allows, invite everyone to share one word they particularly appreciated hearing.",
+    "tip": "Positive vibes only. Encourage specific, genuine observations rather than generic compliments. Make sure people know their partner well enough to offer meaningful words; for new teams, ask for three positive first impressions instead.",
+    "active": true
   }
 ]
