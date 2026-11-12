@@ -214,5 +214,17 @@
     "instructions": "Give everyone 30 seconds to imagine their future claim to fame.|Invite each person to share what they'd be famous for and why.|If time allows, ask the group to invent a newspaper headline announcing it.",
     "tip": "Start with an absurd example to give people permission to be imaginative. Avoid turning it into a competition about career success.",
     "active": true
+  },
+  {
+    "id": "IB019",
+    "title": "Best and Worst Advice",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's the best advice you've ever received, and what's the worst? Share the words of wisdom or spectacularly questionable guidance that stuck with you.",
+    "instructions": "Give everyone a minute to think of the best and worst advice they've received.|Invite each person to share one or both examples and explain why they stuck.|If time allows, ask whether they followed the advice and what happened.",
+    "tip": "Go first with a light-hearted example. Let people pass on either question, as advice can be tied to personal experiences. Avoid judging the people who originally gave it.",
+    "active": true
   }
 ]
