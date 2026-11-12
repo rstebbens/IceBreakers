@@ -406,5 +406,17 @@
     "instructions": "Ask everyone: 'If you were an animal, what would you be and why?'|Give people 30 seconds to think of an animal and their reason for choosing it.|Go around the group and invite each person to share their animal and explanation.|Allow a curious follow-up or two if a particularly unexpected choice sparks conversation.",
     "tip": "The 'why' is the interesting part. Encourage playful or surprising answers rather than analysing anyone's personality. With around 10 participants, allow roughly 45 seconds per person.",
     "active": true
+  },
+  {
+    "id": "IB035",
+    "title": "Animal Noises: Size Order",
+    "category": "Playful",
+    "duration": 5,
+    "minPeople": 5,
+    "maxPeople": 30,
+    "description": "Everyone secretly chooses an animal. Without speaking or using words, communicate only through your animal's noises and arrange yourselves in order of animal size, from smallest to largest.",
+    "instructions": "Ask everyone to secretly choose an animal, without telling anyone what it is.|Explain the challenge: line up from the smallest animal to the largest, using animal noises only. No words, writing, gestures or miming.|Give the group two to three minutes to make their noises and negotiate their places in the line.|Once everyone is in position, go along the line and ask each person to reveal their animal.|Enjoy the disagreements about whether a goose is bigger than a penguin, or what counts as a very large hamster.",
+    "tip": "Make clear that the ranking is based on the typical size of the animal, not the loudness of its noise. Keep the reveal lighthearted; there's no need for a perfect scientific ranking. Allow a quieter or accessible alternative for anyone uncomfortable making noises or unable to hear them.",
+    "active": true
   }
 ]
