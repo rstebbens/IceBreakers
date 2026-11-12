@@ -346,5 +346,17 @@
     "instructions": "Explain that everyone is invited to appreciate someone in the group, focusing on a specific action, contribution or quality rather than generic praise.|Give people a minute to think of someone and what they would like to acknowledge.|Go around the group, inviting each person to share a short appreciation, for example: 'I appreciated when you… because…'.|Thank people for sharing. No one needs to respond to praise or return the compliment.",
     "tip": "Model a brief, genuine example first. Avoid turning it into a popularity contest or requiring everyone to receive equal praise. People can pass, and quieter groups can write appreciations privately. For 10 people, allow about a minute each plus introduction and closing; use smaller groups for larger teams.",
     "active": true
+  },
+  {
+    "id": "IB030",
+    "title": "What Do You Want Out of This Meeting?",
+    "category": "Thoughtful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Before getting into the agenda, ask everyone what they hope to get out of the meeting. It surfaces expectations, helps people feel heard and gives the facilitator a chance to spot different priorities.",
+    "instructions": "Ask: 'What would make this meeting worthwhile for you?'|Give everyone 30 seconds to think, then invite a brief answer from each person.|Capture recurring themes and any expectations that differ from the planned agenda.|Acknowledge what the meeting can realistically address, and return to the expectations at the end if useful.",
+    "tip": "Keep this as a quick opening round, not a renegotiation of the entire agenda. Invite one sentence per person. For larger groups, collect answers in chat or on sticky notes and read out themes. Timing assumes roughly 10 participants.",
+    "active": true
   }
 ]
