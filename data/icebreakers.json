@@ -94,5 +94,17 @@
     "instructions": "Reflect briefly.|Take turns sharing.|Acknowledge without turning it into a status meeting.",
     "tip": "Useful for tired teams.",
     "active": true
+  },
+  {
+    "id": "IB009",
+    "title": "Draw a Self-Portrait",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Draw a quick self-portrait, no artistic talent required. Reveal the masterpieces and discover how everyone sees themselves.",
+    "instructions": "Give everyone paper and a pen (or a digital whiteboard).|Set a two-minute timer and ask everyone to draw themselves. No erasing or starting over.|Invite everyone to show their portrait and share one detail about it.",
+    "tip": "Draw your own deliberately terrible portrait first. Keep it light, and make sharing optional.",
+    "active": true
   }
 ]
