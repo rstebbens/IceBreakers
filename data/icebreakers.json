@@ -418,5 +418,17 @@
     "instructions": "Ask everyone to secretly choose an animal, without telling anyone what it is.|Explain the challenge: line up from the smallest animal to the largest, using animal noises only. No words, writing, gestures or miming.|Give the group two to three minutes to make their noises and negotiate their places in the line.|Once everyone is in position, go along the line and ask each person to reveal their animal.|Enjoy the disagreements about whether a goose is bigger than a penguin, or what counts as a very large hamster.",
     "tip": "Make clear that the ranking is based on the typical size of the animal, not the loudness of its noise. Keep the reveal lighthearted; there's no need for a perfect scientific ranking. Allow a quieter or accessible alternative for anyone uncomfortable making noises or unable to hear them.",
     "active": true
+  },
+  {
+    "id": "IB036",
+    "title": "Jobsworth",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 3,
+    "maxPeople": 30,
+    "description": "Introduce yourself with a completely invented, gloriously unnecessary job title, such as Senior Director of Unnecessary Meetings or Chief Biscuit Integrity Officer. Everyone else gets to ask one question about your imaginary responsibilities.",
+    "instructions": "Give everyone a minute to invent an absurd job title for themselves.|Go around the group. Each person introduces themselves using their new title and briefly describes what they do.|Invite one question from someone else about their imaginary responsibilities. The title-holder must answer in character.|Move on to the next person and enjoy the increasingly ridiculous organisational structure.",
+    "tip": "Go first with an example to set the tone. Keep the invented roles playful rather than using them to mock a real colleague or team. Allow roughly 45 seconds per person for a group of 10; use smaller groups if there are more participants.",
+    "active": true
   }
 ]
