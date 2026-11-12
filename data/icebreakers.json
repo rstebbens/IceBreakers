@@ -358,5 +358,17 @@
     "instructions": "Ask: 'What would make this meeting worthwhile for you?'|Give everyone 30 seconds to think, then invite a brief answer from each person.|Capture recurring themes and any expectations that differ from the planned agenda.|Acknowledge what the meeting can realistically address, and return to the expectations at the end if useful.",
     "tip": "Keep this as a quick opening round, not a renegotiation of the entire agenda. Invite one sentence per person. For larger groups, collect answers in chat or on sticky notes and read out themes. Timing assumes roughly 10 participants.",
     "active": true
+  },
+  {
+    "id": "IB031",
+    "title": "Who Said It?",
+    "category": "Playful",
+    "duration": 10,
+    "minPeople": 4,
+    "maxPeople": 30,
+    "description": "Collect memorable things people have said that sound wonderfully strange when taken out of context. Read each quote aloud and challenge the group to guess who said it. The original speaker must not reveal themselves.",
+    "instructions": "Before the meeting, collect 5–10 genuine, amusing quotes from people in the group. Choose remarks that sound odd or funny without their original context, such as 'It's big, clunky, and I wouldn't bet my house on it.'|Check that each speaker is comfortable having their quote used, without revealing which quotes you've selected to the group.|Read one quote aloud and ask everyone to guess who said it.|The person who originally said it must stay silent and cannot identify themselves or give hints while people guess.|After guesses are in, reveal the speaker and, if they wish, invite them to explain the original context. Repeat with the next quote.",
+    "tip": "Preparation is essential. Collect quotes beforehand, keep them anonymous until the reveal, and avoid anything confidential, embarrassing, personal or likely to upset someone. The original speaker must not self-identify during guessing. Allow roughly one minute per quote; 5–8 quotes usually fit a 10-minute round.",
+    "active": true
   }
 ]
