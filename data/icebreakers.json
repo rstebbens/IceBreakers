@@ -166,5 +166,17 @@
     "instructions": "Give everyone 30 seconds to think of their favourite gadget.|Invite each person to name it and explain why they love it.|If time allows, ask what makes it indispensable or what they'd improve about it.",
     "tip": "Go first with an unexpected choice. Don't turn it into a competition about who owns the most expensive technology.",
     "active": true
+  },
+  {
+    "id": "IB015",
+    "title": "TIL: Today I Learned",
+    "category": "Connection",
+    "duration": 5,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "What's something interesting, surprising or useful you discovered recently? It can be about work, the world or everyday life.",
+    "instructions": "Ask everyone to think of one thing they learned or discovered recently.|Give them 30 seconds to choose their example.|Invite each person to share their discovery and, if they like, how they found it.|Allow a couple of curious follow-up questions if time permits.",
+    "tip": "Keep the bar low. A tiny everyday discovery is just as welcome as a profound insight. Don't turn it into a knowledge test.",
+    "active": true
   }
 ]
