@@ -550,5 +550,77 @@
     "instructions": "Give everyone paper and pens, and ask them to design a personal flag containing three symbols that represent their personality, interests or values.|Allow two or three minutes to draw. Artistic ability is entirely optional.|Invite each person to show their flag without explaining it. Others guess what the three symbols represent.|The flag's creator reveals what each symbol means and shares any surprising stories behind their choices.",
     "tip": "Keep the guessing friendly and curious rather than treating interpretations as personality assessments. In larger groups, share flags in groups of three or four to stay within ten minutes.",
     "active": true
+  },
+  {
+    "id": "IB047",
+    "category": "Reflective",
+    "minPeople": 2,
+    "maxPeople": 30,
+    "title": "A Postcard from the Future",
+    "duration": 10,
+    "description": "It's ten years from now. You've had an exceptionally good year, personally or professionally. Write a postcard to your present-day self describing what life looks like.",
+    "instructions": "Invite everyone to imagine themselves ten years into the future, after an exceptionally good year.|Give everyone two or three minutes to write a short postcard to their present-day self. What has changed? What are they doing? What feels different?|Ask each person to share one sentence from their postcard, if they're comfortable.|Let the images of the future stand on their own without turning the activity into a planning exercise.",
+    "tip": "Keep the focus on possibilities rather than predictions. People can keep their postcard private and share only a detail they choose.",
+    "active": true
+  },
+  {
+    "id": "IB048",
+    "category": "Reflective",
+    "minPeople": 2,
+    "maxPeople": 30,
+    "title": "More Of, Less Of",
+    "duration": 10,
+    "description": "Thinking about the next six months, what's one thing you'd like more of in your working life, and one thing you'd like less of?",
+    "instructions": "Ask everyone to think about the next six months at work.|Give them a moment to identify one thing they'd like more of and one thing they'd like less of.|Invite each person to share their two answers in turn.|Listen without immediately debating, fixing or challenging anyone's choices.",
+    "tip": "This is a check-in, not an invitation to solve every problem in the room. Notice themes and offer to revisit them separately if useful.",
+    "active": true
+  },
+  {
+    "id": "IB049",
+    "category": "Reflective",
+    "minPeople": 2,
+    "maxPeople": 30,
+    "title": "What Would You Attempt If You Couldn't Fail?",
+    "duration": 10,
+    "description": "If failure were impossible, what would you try? It can be personal, professional or completely ridiculous. What makes it worth attempting?",
+    "instructions": "Ask everyone: 'If you knew you couldn't fail, what would you attempt?'|Give people a minute to think.|Invite each person to share their answer and, if they wish, what makes it worth attempting.|Keep the discussion curious and avoid immediately testing whether the idea is realistic.",
+    "tip": "Make it clear that ambitions can be small, enormous, personal or playful. Nobody needs to disclose a private aspiration.",
+    "active": true
+  },
+  {
+    "id": "IB050",
+    "category": "Reflective",
+    "minPeople": 2,
+    "maxPeople": 30,
+    "title": "The Advice You'd Give Yourself",
+    "duration": 10,
+    "description": "If you could send a short message to yourself five years ago, what would it say? Would your younger self have listened?",
+    "instructions": "Ask everyone to imagine sending one short piece of advice to themselves five years ago.|Give them a minute to think or write it down.|Invite each person to share their advice.|Optionally ask: 'Would your younger self have listened?' ",
+    "tip": "Keep the tone reflective rather than regretful. Participants can share something lighthearted or pass.",
+    "active": true
+  },
+  {
+    "id": "IB051",
+    "category": "Reflective",
+    "minPeople": 2,
+    "maxPeople": 30,
+    "title": "Something I Used to Believe",
+    "duration": 10,
+    "description": "What's something you used to believe strongly but have since changed your mind about? What changed your thinking?",
+    "instructions": "Invite everyone to think of a belief or opinion they have changed over time. It can be trivial or meaningful.|Give people a minute to choose an example.|Ask each person to share what they once believed, what they believe now and what changed their mind.|Thank people for sharing without turning their past beliefs into a debate.",
+    "tip": "Start with a harmless example to set a curious, non-judgemental tone. Avoid pressuring people into personal or political disclosures.",
+    "active": true
+  },
+  {
+    "id": "IB052",
+    "category": "Reflective",
+    "minPeople": 2,
+    "maxPeople": 30,
+    "title": "Permission Granted",
+    "duration": 10,
+    "description": "Imagine someone has given you permission to stop doing one thing that adds little value. What would you stop?",
+    "instructions": "Ask everyone to imagine they have full permission to stop doing one low-value activity at work.|Give them a moment to choose what they'd stop.|Invite each person to name their choice, with a brief explanation if they wish.|Listen for patterns, but don't turn the icebreaker into an approval process or action-planning meeting.",
+    "tip": "The imaginary permission is part of the exercise, not a real decision to discontinue work. If useful themes emerge, follow them up separately.",
+    "active": true
   }
 ]
