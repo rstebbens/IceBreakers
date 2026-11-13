@@ -674,5 +674,18 @@
     "tip": "The imaginary permission is part of the exercise, not a real decision to discontinue work. If useful themes emerge, follow them up separately. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
     "active": true,
     "interaction": "Reflecting"
+  },
+  {
+    "id": "IB053",
+    "title": "Count to Twenty",
+    "category": "Playful",
+    "interaction": "Collaborating",
+    "duration": 5,
+    "minPeople": 3,
+    "maxPeople": 30,
+    "description": "As a group, count aloud from one to twenty. Anyone can say the next number, but if two people speak simultaneously, restart at one. No agreed order or signalling.",
+    "instructions": "Ask everyone to stand or sit in a circle, or simply stay where they are.|The group must count aloud from one to twenty, with only one person speaking at a time. Anyone may say the next number.|No fixed speaking order, planning, gestures or other signals are allowed.|If two or more people speak at once, restart from one.|See how far the group gets within a few minutes. Reaching twenty is a bonus, not a requirement.",
+    "tip": "Resist the urge to organise the group. The point is shared attention and coordination, not a perfect score. People can participate seated or remotely; in larger groups, split into smaller circles.",
+    "active": true
   }
 ]
