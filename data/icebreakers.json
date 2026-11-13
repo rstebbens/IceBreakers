@@ -538,5 +538,17 @@
     "instructions": "Give everyone paper and a pen, and set a 60-second timer to draw a monster.|Ask everyone to give their monster a name, a completely useless superpower and one irrational fear.|Invite people to show their drawings and introduce their monsters in about 30 seconds each.|Enjoy the wonderfully questionable artwork. No drawing ability required.",
     "tip": "Lead with your own gloriously bad example. Keep it light and avoid judging artistic ability. In a larger group, share in smaller groups to keep within ten minutes.",
     "active": true
+  },
+  {
+    "id": "IB046",
+    "title": "Fun with Flags",
+    "category": "Connection",
+    "duration": 10,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Draw a flag that represents you. Include three symbols that reveal something about your personality, interests or values. Let everyone else guess what the symbols mean before you explain.",
+    "instructions": "Give everyone paper and pens, and ask them to design a personal flag containing three symbols that represent their personality, interests or values.|Allow two or three minutes to draw. Artistic ability is entirely optional.|Invite each person to show their flag without explaining it. Others guess what the three symbols represent.|The flag's creator reveals what each symbol means and shares any surprising stories behind their choices.",
+    "tip": "Keep the guessing friendly and curious rather than treating interpretations as personality assessments. In larger groups, share flags in groups of three or four to stay within ten minutes.",
+    "active": true
   }
 ]
