@@ -9,19 +9,21 @@
     "description": "Share two truths and one lie. Can the group spot the invention?",
     "instructions": "Think of three statements about yourself: two true and one false.|Share all three without revealing the lie.|Everyone guesses, then reveal the answer.",
     "tip": "Encourage surprising truths rather than implausible lies. Timing assumes around 10 participants. For groups over 10, split into smaller circles; otherwise allow roughly 1–2 minutes per person.",
-    "active": true
+    "active": true,
+    "interaction": "Guessing"
   },
   {
     "id": "IB002",
     "title": "The Perfect Day",
-    "category": "Thoughtful",
+    "category": "Reflective",
     "duration": 15,
     "minPeople": 2,
     "maxPeople": 30,
     "description": "You have a day with no responsibilities and enough money to enjoy yourself, but not unlimited money. What do you do?",
     "instructions": "Give everyone 30 seconds to imagine their day.|Invite each person to describe it.|Ask a curious follow-up.",
     "tip": "Keep the budget realistic. Timing assumes around 10 participants. For groups over 10, share in pairs or small groups rather than hearing every answer in plenary.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB003",
@@ -32,8 +34,9 @@
     "maxPeople": 30,
     "description": "Fast Friends is a structured conversation exercise inspired by psychologist Arthur Aron and colleagues' research on building interpersonal closeness through reciprocal self-disclosure. In pairs, people answer questions that gradually move from light topics towards more meaningful reflection. This is a workplace-friendly adaptation, not Aron's original 36-question protocol.",
     "instructions": "Explain the background: Arthur Aron and colleagues studied how gradually more personal, reciprocal questions can help strangers develop a sense of closeness. This version adapts that idea for colleagues, without the more intimate questions.|Pair participants with someone they know less well, ideally in a quiet space or breakout room.|Start at question 1 and work forwards. Both partners answer each question, taking roughly equal time and listening without interrupting.|For a 15-minute icebreaker, allow 1 minute for the introduction, 12 minutes for 6–10 questions, and 2 minutes to close. You don't need to complete all 30.|Invite each person to share one interesting thing they learnt, but only with their partner's permission. Passing on any question is always fine.",
-    "tip": "Why the order matters: the prompts gradually deepen, so keep Fast Friends in sequence rather than shuffling. The original study used a longer, roughly 45-minute structured procedure; this is a shorter, workplace-appropriate adaptation and shouldn't be presented as equivalent or guaranteed to create closeness. Reference: Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings. Personality and Social Psychology Bulletin, 23(4), 363–377. https://doi.org/10.1177/0146167297234003",
-    "active": true
+    "tip": "Why the order matters: the prompts gradually deepen, so keep Fast Friends in sequence rather than shuffling. The original study used a longer, roughly 45-minute structured procedure; this is a shorter, workplace-appropriate adaptation and shouldn't be presented as equivalent or guaranteed to create closeness. Reference: Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings. Personality and Social Psychology Bulletin, 23(4), 363–377. https://doi.org/10.1177/0146167297234003 For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB004",
@@ -45,7 +48,8 @@
     "description": "What completely useless superpower would you choose?",
     "instructions": "Give everyone 20 seconds.|Share the powers.|Vote for the most impressively impractical.",
     "tip": "Lead with an absurd example. Timing assumes around 10 participants. For groups over 10, collect answers in chat or small groups, then share a few favourites.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB005",
@@ -57,7 +61,8 @@
     "description": "What oddly specific subject could you talk about for ten minutes?",
     "instructions": "Give everyone a minute.|Share subjects.|Invite one curious question per person.",
     "tip": "Good for teams who know job titles but little else. Timing assumes around 10 participants. For groups over 10, share in groups of 4–5.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB006",
@@ -68,8 +73,9 @@
     "maxPeople": 50,
     "description": "Pick between two entertainingly difficult options.",
     "instructions": "Read a question.|Everyone commits to one choice.|Ask why.",
-    "tip": "The reasoning is better than the answer. Timing assumes around 10 participants. A show of hands or quick vote scales to large groups; only invite a few explanations.",
-    "active": true
+    "tip": "The reasoning is better than the answer. Timing assumes around 10 participants. A show of hands or quick vote scales to large groups; only invite a few explanations. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB007",
@@ -81,19 +87,21 @@
     "description": "What trivial opinion would you defend with unreasonable passion?",
     "instructions": "Choose a harmless opinion.|Defend it in 30 seconds.|Allow friendly rebuttals.",
     "tip": "Avoid politics and personal attacks. Timing assumes around 10 participants. For groups over 10, use breakout groups or invite a few volunteers.",
-    "active": true
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB008",
     "title": "One Small Win",
-    "category": "Thoughtful",
+    "category": "Reflective",
     "duration": 10,
     "minPeople": 2,
     "maxPeople": 30,
     "description": "What's one small thing that has gone well recently?",
     "instructions": "Reflect briefly.|Take turns sharing.|Acknowledge without turning it into a status meeting.",
     "tip": "Useful for tired teams. Timing assumes around 10 participants. For groups over 10, use pairs or a quick chat round.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB009",
@@ -105,7 +113,8 @@
     "description": "Draw a quick self-portrait, no artistic talent required. Reveal the masterpieces and discover how everyone sees themselves.",
     "instructions": "Give everyone paper and a pen (or a digital whiteboard).|Set a two-minute timer and ask everyone to draw themselves. No erasing or starting over.|Invite everyone to show their portrait and share one detail about it.",
     "tip": "Draw your own deliberately terrible portrait first. Keep it light, and make sharing optional. Timing assumes around 10 participants. For groups over 10, use a gallery walk or small groups; showing every drawing to the whole group takes longer.",
-    "active": true
+    "active": true,
+    "interaction": "Drawing"
   },
   {
     "id": "IB010",
@@ -116,8 +125,9 @@
     "maxPeople": 30,
     "description": "Sketch an emotional timeline of the sprint. The X-axis represents time from sprint start to finish; the Y-axis represents how you felt, from low to high. Compare the peaks, dips and turning points.",
     "instructions": "Draw two axes: sprint timeline (X) and mood or energy, low to high (Y).|Give everyone 3–5 minutes to draw their own line showing how they felt at different points in the sprint.|Invite people to share their curves and explain one high point, one low point or a turning point.|Look for shared patterns and discuss what helped, what hindered and what to change next sprint.",
-    "tip": "Avoid treating the curves as performance ratings. People can share as much or as little as they wish; focus on what the team can learn rather than explaining away someone's experience. Timing assumes around 10 participants. For groups over 10, share timelines in groups of 4–5 before bringing back common patterns.",
-    "active": true
+    "tip": "Avoid treating the curves as performance ratings. People can share as much or as little as they wish; focus on what the team can learn rather than explaining away someone's experience. Timing assumes around 10 participants. For groups over 10, share timelines in groups of 4–5 before bringing back common patterns. This can be a light, quick warm-up: share the shapes of your lines without analysis or actions. Offer a seated or verbal alternative if needed.",
+    "active": true,
+    "interaction": "Drawing"
   },
   {
     "id": "IB011",
@@ -129,7 +139,8 @@
     "description": "If your mood today were the weather, what would the forecast be? Sunny spells, scattered showers, a passing storm or something entirely unexpected?",
     "instructions": "Ask everyone to imagine their mood as a weather forecast.|Give them 20–30 seconds to think of a forecast, optionally including what might change later in the day.|Invite each person to share their forecast in one or two sentences.|Acknowledge the forecasts without trying to fix anyone's weather.",
     "tip": "Model a playful but genuine forecast yourself. Don't pressure anyone to explain why they're feeling that way, and allow people to pass. Timing assumes around 10 participants. For groups over 10, use a quick one-line forecast or chat responses.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB012",
@@ -141,7 +152,8 @@
     "description": "Invent a new word to describe how the project is going by smashing two existing words together. Give your creation a definition.",
     "instructions": "Ask everyone to think of two words that capture the current state of the project.|Combine them into one invented word.|Take turns sharing the new word, its two ingredients and what it means.|Notice any recurring themes and ask what they tell you about the project.",
     "tip": "Offer an example such as 'chaoptimism' (chaos + optimism). Let people be funny or candid, but avoid turning the exercise into a blame session. Timing assumes around 10 participants. For groups over 10, share in small groups or collect words on a board.",
-    "active": true
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB013",
@@ -153,7 +165,8 @@
     "description": "Use a meme to communicate how your day is going. Find one, make one, or describe the perfect meme if you can't find it.",
     "instructions": "Give everyone two minutes to find or create a meme that captures their day so far.|Invite people to post their meme in the meeting chat or shared board.|Take turns sharing what the meme says about their day, if they want to.|Notice the mood in the room without turning the check-in into a problem-solving session.",
     "tip": "Share your own meme first. Keep it workplace-appropriate and accessible: participants can describe a meme instead of sharing an image. Avoid memes that target colleagues or groups. Timing assumes around 10 participants. For groups over 10, post memes together, then discuss a few rather than every submission.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB014",
@@ -165,7 +178,8 @@
     "description": "What's your favourite gadget, and why? It could be cutting-edge technology, a humble kitchen tool or something wonderfully unnecessary.",
     "instructions": "Give everyone 30 seconds to think of their favourite gadget.|Invite each person to name it and explain why they love it.|If time allows, ask what makes it indispensable or what they'd improve about it.",
     "tip": "Go first with an unexpected choice. Don't turn it into a competition about who owns the most expensive technology. Timing assumes around 10 participants. For groups over 10, share in pairs or invite short answers.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB015",
@@ -177,7 +191,8 @@
     "description": "What's something interesting, surprising or useful you discovered recently? It can be about work, the world or everyday life.",
     "instructions": "Ask everyone to think of one thing they learned or discovered recently.|Give them 30 seconds to choose their example.|Invite each person to share their discovery and, if they like, how they found it.|Allow a couple of curious follow-up questions if time permits.",
     "tip": "Keep the bar low. A tiny everyday discovery is just as welcome as a profound insight. Don't turn it into a knowledge test. Timing assumes around 10 participants. For groups over 10, share in small groups or keep each response to one sentence.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB016",
@@ -189,7 +204,8 @@
     "description": "Look to your left and discover an interesting fact about that person. Then turn to your right and introduce the person on your left, sharing what you learned.",
     "instructions": "Arrange everyone in a circle or a clear seating order.|Ask each person to turn to their left and find out one interesting fact about that neighbour.|Give pairs two minutes to chat.|Now ask everyone to turn to their right and introduce the person they just spoke to on their left, sharing their interesting fact with the person on their right.|If time allows, invite a few memorable introductions to be shared with the whole group.",
     "tip": "Check the directions before starting: everyone should learn about the person on their left, then tell the person on their right. For remote meetings, assign a circular order of names. Let people choose a fact they're comfortable sharing. Timing assumes around 10 participants. For groups over 10, keep introductions in simultaneous trios rather than hearing everyone in plenary.",
-    "active": true
+    "active": true,
+    "interaction": "Collaborating"
   },
   {
     "id": "IB017",
@@ -201,7 +217,8 @@
     "description": "If you could write your own tombstone inscription, what would it say? Make it funny, thoughtful or wonderfully absurd.",
     "instructions": "Invite everyone to imagine the inscription they'd choose for their own tombstone.|Give them one minute to invent a short epitaph, ideally no more than a sentence.|Take turns sharing the inscriptions and, if they wish, the story behind them.",
     "tip": "Lead with a light-hearted example such as 'I told you I was ill.' Death-related humour isn't comfortable for everyone, so make participation optional and offer an alternative: 'What would your fictional biography's final line be?' Timing assumes around 10 participants. For groups over 10, share in smaller groups or invite a handful of volunteers.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB018",
@@ -213,7 +230,8 @@
     "description": "What are you most likely to become famous for? It could be a genuine talent, an unlikely achievement or something gloriously ridiculous.",
     "instructions": "Give everyone 30 seconds to imagine their future claim to fame.|Invite each person to share what they'd be famous for and why.|If time allows, ask the group to invent a newspaper headline announcing it.",
     "tip": "Start with an absurd example to give people permission to be imaginative. Avoid turning it into a competition about career success. Timing assumes around 10 participants. For groups over 10, keep responses short or use pairs.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB019",
@@ -225,7 +243,8 @@
     "description": "What's the best advice you've ever received, and what's the worst? Share the words of wisdom or spectacularly questionable guidance that stuck with you.",
     "instructions": "Give everyone a minute to think of the best and worst advice they've received.|Invite each person to share one or both examples and explain why they stuck.|If time allows, ask whether they followed the advice and what happened.",
     "tip": "Go first with a light-hearted example. Let people pass on either question, as advice can be tied to personal experiences. Avoid judging the people who originally gave it. Timing assumes around 10 participants. For groups over 10, share in groups of 3–4; two stories each take time.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB020",
@@ -237,7 +256,8 @@
     "description": "What's the earliest thing you can remember? A place, a person, a sound, a moment or a tiny detail that has somehow stayed with you.",
     "instructions": "Give everyone a minute to think back to their earliest memory.|Invite each person to share the memory and roughly how old they think they were.|If they wish, ask what makes that particular moment memorable.",
     "tip": "Memories can be personal or uncertain. Make sharing optional, avoid challenging anyone's recollection, and offer 'an early happy memory' as an alternative prompt. Timing assumes around 10 participants. For groups over 10, use pairs or small groups, and allow people to pass.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB021",
@@ -249,7 +269,8 @@
     "description": "You're stranded on a desert island and can take only three things. What do you choose, and why?",
     "instructions": "Set the scene: you're stranded on a desert island and can bring only three physical items.|Give everyone one minute to choose their three things.|Invite each person to reveal their choices and explain the thinking behind them.|Optionally ask which one item they'd give up if they had to.",
     "tip": "Agree whether rescue is possible and whether essentials such as food and water are already provided. Otherwise everyone may choose a satellite phone, water purifier and boat. Encourage creative answers rather than debating survival expertise. Timing assumes around 10 participants. For groups over 10, share in small groups rather than a full round.",
-    "active": true
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB022",
@@ -261,7 +282,8 @@
     "description": "In pairs, choose three positive words that describe your teammate. Share them with each other and explain why you chose them.",
     "instructions": "Pair everyone up; for an odd number, make one group of three.|Give each person one minute to think of three positive words that describe their partner.|Take turns sharing your three words and one example or reason behind each.|If time allows, invite everyone to share one word they particularly appreciated hearing.",
     "tip": "Positive vibes only. Encourage specific, genuine observations rather than generic compliments. Make sure people know their partner well enough to offer meaningful words; for new teams, ask for three positive first impressions instead. Timing assumes around 10 participants. Pairs work simultaneously, so the duration scales well.",
-    "active": true
+    "active": true,
+    "interaction": "Collaborating"
   },
   {
     "id": "IB023",
@@ -272,8 +294,9 @@
     "maxPeople": 20,
     "description": "Pick an ordinary object and invent a wildly exaggerated sales pitch for it. Can you convince everyone they absolutely need it?",
     "instructions": "Ask everyone to grab a nearby everyday object or assign them one.|Give participants one minute to invent a ridiculous 30-second sales pitch.|Take turns pitching the objects, or use groups of four or five for larger teams.|Invite the group to applaud the most imaginative selling point.",
-    "tip": "Go first with an absurd pitch for something mundane. Keep it playful, not a test of presentation skills. With more than 10 participants, use smaller groups so everyone gets a turn.",
-    "active": true
+    "tip": "Go first with an absurd pitch for something mundane. Keep it playful, not a test of presentation skills. With more than 10 participants, use smaller groups so everyone gets a turn. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB024",
@@ -285,7 +308,8 @@
     "description": "Find an object near you that reveals something about your personality, interests or life, then tell the group its story.",
     "instructions": "Give everyone 30–60 seconds to find a nearby object that means something to them.|Invite each person to show the object and explain why they chose it in about 30 seconds.|Ask one or two curious follow-up questions if time allows.",
     "tip": "Particularly good for remote meetings. Let people describe an object if they can't retrieve it or prefer not to show their surroundings. For groups over 10, use breakout rooms or keep responses brief.",
-    "active": true
+    "active": true,
+    "interaction": "Show & Tell"
   },
   {
     "id": "IB025",
@@ -296,8 +320,9 @@
     "maxPeople": 30,
     "description": "Show the last photograph you took on your phone that you're comfortable sharing, and tell us the story behind it.",
     "instructions": "Ask everyone to look at their recent photos and choose one they're happy to share.|Give people a minute to find a photo.|Invite each person to show or describe the photo and share its story in around 30–45 seconds.",
-    "tip": "Privacy first: nobody should feel obliged to reveal a personal photo, location or other people's faces. Allow participants to describe a photo instead. For groups over 10, share in smaller groups.",
-    "active": true
+    "tip": "Privacy first: nobody should feel obliged to reveal a personal photo, location or other people's faces. Allow participants to describe a photo instead. For groups over 10, share in smaller groups. Let people pass or keep personal details private.",
+    "active": true,
+    "interaction": "Show & Tell"
   },
   {
     "id": "IB026",
@@ -308,8 +333,9 @@
     "maxPeople": 30,
     "description": "What's the strangest, most unnecessary or most regrettable thing you've ever bought? What possessed you?",
     "instructions": "Give everyone 30 seconds to remember an unusual purchase.|Take turns describing what they bought and why.|Invite a few follow-up questions, such as whether they still own it or if it turned out to be surprisingly useful.",
-    "tip": "Keep it light and avoid judgement about spending. People can choose a funny or inexpensive purchase. Use smaller groups if everyone wants to tell a longer story.",
-    "active": true
+    "tip": "Keep it light and avoid judgement about spending. People can choose a funny or inexpensive purchase. Use smaller groups if everyone wants to tell a longer story. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB027",
@@ -320,8 +346,9 @@
     "maxPeople": 30,
     "description": "If you came with a warning label, what would it say? Invent a funny, affectionate disclaimer about yourself.",
     "instructions": "Give everyone one minute to invent a short warning label for themselves.|Invite each person to read their label aloud.|If they want, ask them to explain the story behind it.",
-    "tip": "Model a self-deprecating but kind example, such as 'May start explaining spreadsheets without warning.' Keep it voluntary and steer away from labels about other people.",
-    "active": true
+    "tip": "Model a self-deprecating but kind example, such as 'May start explaining spreadsheets without warning.' Keep it voluntary and steer away from labels about other people. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB028",
@@ -333,7 +360,8 @@
     "description": "What song would play whenever you entered a room, and why does it suit you?",
     "instructions": "Give everyone a minute to choose their entrance song.|Invite each person to name the song and explain their choice in a sentence or two.|Optionally collect the songs into a shared playlist after the meeting.",
     "tip": "Don't require anyone to sing or play copyrighted music. People can simply name the song. For larger groups, collect answers in chat and discuss a few.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB029",
@@ -344,20 +372,22 @@
     "maxPeople": 30,
     "description": "Take a moment to recognise someone in the group for something specific they have done or a quality you genuinely appreciate. Small, sincere acknowledgements can reveal the good things we often forget to say aloud.",
     "instructions": "Explain that everyone is invited to appreciate someone in the group, focusing on a specific action, contribution or quality rather than generic praise.|Give people a minute to think of someone and what they would like to acknowledge.|Go around the group, inviting each person to share a short appreciation, for example: 'I appreciated when you… because…'.|Thank people for sharing. No one needs to respond to praise or return the compliment.",
-    "tip": "Model a brief, genuine example first. Avoid turning it into a popularity contest or requiring everyone to receive equal praise. People can pass, and quieter groups can write appreciations privately. For 10 people, allow about a minute each plus introduction and closing; use smaller groups for larger teams.",
-    "active": true
+    "tip": "Model a brief, genuine example first. Avoid turning it into a popularity contest or requiring everyone to receive equal praise. People can pass, and quieter groups can write appreciations privately. For 10 people, allow about a minute each plus introduction and closing; use smaller groups for larger teams. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Collaborating"
   },
   {
     "id": "IB030",
     "title": "What Do You Want Out of This Meeting?",
-    "category": "Thoughtful",
+    "category": "Reflective",
     "duration": 10,
     "minPeople": 2,
     "maxPeople": 30,
     "description": "Before getting into the agenda, ask everyone what they hope to get out of the meeting. It surfaces expectations, helps people feel heard and gives the facilitator a chance to spot different priorities.",
     "instructions": "Ask: 'What would make this meeting worthwhile for you?'|Give everyone 30 seconds to think, then invite a brief answer from each person.|Capture recurring themes and any expectations that differ from the planned agenda.|Acknowledge what the meeting can realistically address, and return to the expectations at the end if useful.",
     "tip": "Keep this as a quick opening round, not a renegotiation of the entire agenda. Invite one sentence per person. For larger groups, collect answers in chat or on sticky notes and read out themes. Timing assumes roughly 10 participants.",
-    "active": true
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB031",
@@ -368,8 +398,9 @@
     "maxPeople": 30,
     "description": "Collect memorable things people have said that sound wonderfully strange when taken out of context. Read each quote aloud and challenge the group to guess who said it. The original speaker must not reveal themselves.",
     "instructions": "Before the meeting, collect 5–10 genuine, amusing quotes from people in the group. Choose remarks that sound odd or funny without their original context, such as 'It's big, clunky, and I wouldn't bet my house on it.'|Check that each speaker is comfortable having their quote used, without revealing which quotes you've selected to the group.|Read one quote aloud and ask everyone to guess who said it.|The person who originally said it must stay silent and cannot identify themselves or give hints while people guess.|After guesses are in, reveal the speaker and, if they wish, invite them to explain the original context. Repeat with the next quote.",
-    "tip": "Preparation is essential. Collect quotes beforehand, keep them anonymous until the reveal, and avoid anything confidential, embarrassing, personal or likely to upset someone. The original speaker must not self-identify during guessing. Allow roughly one minute per quote; 5–8 quotes usually fit a 10-minute round.",
-    "active": true
+    "tip": "Preparation is essential. Collect quotes beforehand, keep them anonymous until the reveal, and avoid anything confidential, embarrassing, personal or likely to upset someone. The original speaker must not self-identify during guessing. Allow roughly one minute per quote; 5–8 quotes usually fit a 10-minute round. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Guessing"
   },
   {
     "id": "IB032",
@@ -380,8 +411,9 @@
     "maxPeople": 30,
     "description": "A quick, low-pressure way to sense whether there's an elephant in the room, without asking anyone to name the issue. Everyone chooses where they think the elephant is sitting: In the corner — We all know something's there, but we're doing a pretty good job of ignoring it. In the doorway — Something's getting in the way of us moving forward. On the table — It's obvious. We're practically working around it, but nobody's addressing it. Behind the curtain — Something doesn't feel quite right, but I can't put my finger on it. Outside the building — There are issues, but they're not really within this team's control. What elephant? — Nothing significant is bothering me.",
     "instructions": "Introduce the metaphor: 'If there's an elephant around this team, where is it sitting?' Make clear that nobody has to explain their choice.|Show everyone the six options and their meanings: IN THE CORNER — We all know something's there, but we're doing a pretty good job of ignoring it; IN THE DOORWAY — Something's getting in the way of us moving forward; ON THE TABLE — It's obvious. We're practically working around it, but nobody's addressing it; BEHIND THE CURTAIN — Something doesn't feel quite right, but I can't put my finger on it; OUTSIDE THE BUILDING — There are issues, but they're not really within this team's control; WHAT ELEPHANT? — Nothing significant is bothering me.|Ask each person to choose one option privately. Collect answers anonymously using a poll, cards or sticky notes without names.|Reveal the distribution and give the group a moment to notice what it suggests. Invite observations, not explanations or guesses about who chose what.|Ask whether the group wants to explore anything further, now or in a separate conversation. Respect a decision not to disclose.",
-    "tip": "Anonymity matters more than clever facilitation. Don't ask anyone to justify their answer or identify an elephant. Avoid showing results in ways that expose individuals in very small groups. This is a temperature check, not a licence to force a difficult conversation.",
-    "active": true
+    "tip": "Anonymity matters more than clever facilitation. Don't ask anyone to justify their answer or identify an elephant. Avoid showing results in ways that expose individuals in very small groups. This is a temperature check, not a licence to force a difficult conversation. Let people pass or keep personal details private.",
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB033",
@@ -393,7 +425,8 @@
     "description": "What was your very first paid job? Share what you did, how you ended up doing it and, if you're happy to say, how much you got paid.",
     "instructions": "Ask everyone to think back to their first paid job, whether it was a paper round, weekend shift, summer job or something more unusual.|Invite each person to share what the job was and one thing they remember about it.|Optionally ask: 'How much did you get paid?' Make it clear that sharing pay is entirely voluntary.|Enjoy the differences in jobs, eras and currencies without turning it into a competition.",
     "tip": "The pay question is optional, not a requirement. Some people may never have had paid employment, so welcome first volunteering roles or other early responsibilities too. For a group of 10, aim for about 45 seconds per person.",
-    "active": true
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB034",
@@ -405,7 +438,8 @@
     "description": "If you were an animal, what would you be and why? Your choice might say something about your personality, habits or how you see yourself.",
     "instructions": "Ask everyone: 'If you were an animal, what would you be and why?'|Give people 30 seconds to think of an animal and their reason for choosing it.|Go around the group and invite each person to share their animal and explanation.|Allow a curious follow-up or two if a particularly unexpected choice sparks conversation.",
     "tip": "The 'why' is the interesting part. Encourage playful or surprising answers rather than analysing anyone's personality. With around 10 participants, allow roughly 45 seconds per person.",
-    "active": true
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB035",
@@ -416,8 +450,9 @@
     "maxPeople": 30,
     "description": "Everyone secretly chooses an animal. Without speaking or using words, communicate only through your animal's noises and arrange yourselves in order of animal size, from smallest to largest.",
     "instructions": "Ask everyone to secretly choose an animal, without telling anyone what it is.|Explain the challenge: line up from the smallest animal to the largest, using animal noises only. No words, writing, gestures or miming.|Give the group two to three minutes to make their noises and negotiate their places in the line.|Once everyone is in position, go along the line and ask each person to reveal their animal.|Enjoy the disagreements about whether a goose is bigger than a penguin, or what counts as a very large hamster.",
-    "tip": "Make clear that the ranking is based on the typical size of the animal, not the loudness of its noise. Keep the reveal lighthearted; there's no need for a perfect scientific ranking. Allow a quieter or accessible alternative for anyone uncomfortable making noises or unable to hear them.",
-    "active": true
+    "tip": "Make clear that the ranking is based on the typical size of the animal, not the loudness of its noise. Keep the reveal lighthearted; there's no need for a perfect scientific ranking. Allow a quieter or accessible alternative for anyone uncomfortable making noises or unable to hear them. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Moving"
   },
   {
     "id": "IB036",
@@ -429,7 +464,8 @@
     "description": "Introduce yourself with a completely invented, gloriously unnecessary job title, such as Senior Director of Unnecessary Meetings or Chief Biscuit Integrity Officer. Everyone else gets to ask one question about your imaginary responsibilities.",
     "instructions": "Give everyone a minute to invent an absurd job title for themselves.|Go around the group. Each person introduces themselves using their new title and briefly describes what they do.|Invite one question from someone else about their imaginary responsibilities. The title-holder must answer in character.|Move on to the next person and enjoy the increasingly ridiculous organisational structure.",
     "tip": "Go first with an example to set the tone. Keep the invented roles playful rather than using them to mock a real colleague or team. Allow roughly 45 seconds per person for a group of 10; use smaller groups if there are more participants.",
-    "active": true
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB037",
@@ -440,8 +476,9 @@
     "maxPeople": 60,
     "description": "A knockout rock-paper-scissors tournament with a twist: when you lose, you become your opponent's enthusiastic cheering squad. The crowd behind each winner grows until one champion remains.",
     "instructions": "Ask everyone to find a partner and play one round of rock, paper, scissors. Replay ties until someone wins.|The loser becomes the winner's cheering squad, following them and cheering them on.|Winners find other winners and play again. Their supporters join the winning player's entourage after each match.|Keep going until just two players remain, each with a noisy crowd behind them.|Play the grand final and celebrate the champion.",
-    "tip": "Encourage gloriously over-the-top cheering. For an odd number of players, let one person have a bye in the first round. Make cheering optional and allow seated participation.",
-    "active": true
+    "tip": "Encourage gloriously over-the-top cheering. For an odd number of players, let one person have a bye in the first round. Make cheering optional and allow seated participation. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Moving"
   },
   {
     "id": "IB038",
@@ -452,8 +489,9 @@
     "maxPeople": 40,
     "description": "In small groups, find something genuinely surprising that everyone has in common. The obvious answers don't count.",
     "instructions": "Split everyone into groups of three or four.|Give each group three minutes to discover something they all have in common. Working for the same organisation or being in the same meeting doesn't count.|Encourage people to keep digging beyond obvious similarities until they find an unexpected connection.|Bring everyone back together. Each group shares its most surprising common thread.",
-    "tip": "A great way to get people talking beyond job titles. If a group struggles, prompt them to explore childhood experiences, unusual skills, travel, food or hobbies. Keep the discoveries light and don't pressure anyone to disclose personal information.",
-    "active": true
+    "tip": "A great way to get people talking beyond job titles. If a group struggles, prompt them to explore childhood experiences, unusual skills, travel, food or hobbies. Keep the discoveries light and don't pressure anyone to disclose personal information. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Collaborating"
   },
   {
     "id": "IB039",
@@ -464,8 +502,9 @@
     "maxPeople": 40,
     "description": "Take sides on wonderfully trivial questions, then let the minority defend its position. Strong opinions, absolutely negligible stakes.",
     "instructions": "Read out one divisive question and give everyone a moment to choose a side. Everyone votes at the same time, by raising a hand or moving to opposite sides of the room.|Ask someone in the minority to defend their position in 30 seconds. The majority gets 15 seconds to respond.|Repeat with three or four questions, keeping the debate light and moving quickly.|Example questions: Should the toilet roll hang over or under?; Is cereal a soup?; Should you put milk in before or after the tea?; Is it acceptable to wear socks with sandals?; Is a hot dog a sandwich?; Should you refrigerate ketchup?; Is it acceptable to clap when a plane lands?; Is it acceptable to eat pizza with a knife and fork?; Is Die Hard a Christmas film?.",
-    "tip": "The minority isn't necessarily wrong! Avoid personal or political questions, and don't force anyone to defend a view. For an even split, invite one volunteer from each side.",
-    "active": true
+    "tip": "The minority isn't necessarily wrong! Avoid personal or political questions, and don't force anyone to defend a view. For an even split, invite one volunteer from each side. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Guessing"
   },
   {
     "id": "IB040",
@@ -476,8 +515,9 @@
     "maxPeople": 30,
     "description": "What was the first concert you ever attended? Who did you see, and what do you remember about it?",
     "instructions": "Ask everyone to think back to their first concert or live music performance.|Invite each person to share the artist, where they saw them and one memory from the experience.|Enjoy the unexpected revelations and changing musical tastes.",
-    "tip": "No need to be embarrassed by the artist. If someone has never been to a concert, invite them to share the first live performance they remember or one they'd love to attend.",
-    "active": true
+    "tip": "No need to be embarrassed by the artist. If someone has never been to a concert, invite them to share the first live performance they remember or one they'd love to attend. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB041",
@@ -488,8 +528,9 @@
     "maxPeople": 30,
     "description": "What did you want to be when you grew up? How close did you get to that childhood ambition?",
     "instructions": "Ask everyone to remember what they wanted to be when they grew up.|Go around the group and invite each person to share their childhood ambition.|Optionally ask how their actual career compares with the original plan.",
-    "tip": "Keep it light and curious. People can share a childhood dream without explaining personal career choices.",
-    "active": true
+    "tip": "Keep it light and curious. People can share a childhood dream without explaining personal career choices. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB042",
@@ -500,8 +541,9 @@
     "maxPeople": 30,
     "description": "What's the strangest souvenir you've ever brought home, and why did you buy it?",
     "instructions": "Give everyone a moment to remember an unusual souvenir they've bought or been given.|Invite people to share what it was, where it came from and why it ended up coming home.|Welcome the stories behind the objects, particularly the ones that made perfect sense at the time.",
-    "tip": "No physical souvenir required. If someone doesn't collect souvenirs, they can describe the oddest gift or keepsake they've received.",
-    "active": true
+    "tip": "No physical souvenir required. If someone doesn't collect souvenirs, they can describe the oddest gift or keepsake they've received. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB043",
@@ -512,8 +554,9 @@
     "maxPeople": 30,
     "description": "What's a skill you possess that's impressive to absolutely nobody? Demonstrations encouraged, but optional.",
     "instructions": "Ask everyone to think of a peculiar, niche or spectacularly unhelpful skill they have.|Go around the group and invite each person to reveal their talent.|Offer a chance to demonstrate, but only if they want to.",
-    "tip": "Set the tone with a silly example. Don't pressure anyone to perform; a good description is enough.",
-    "active": true
+    "tip": "Set the tone with a silly example. Don't pressure anyone to perform; a good description is enough. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Improvising"
   },
   {
     "id": "IB044",
@@ -524,8 +567,9 @@
     "maxPeople": 30,
     "description": "What was the first record you ever bought? Vinyl, cassette, CD or digital download all count. Do you still stand by your choice?",
     "instructions": "Ask everyone to remember the first record, cassette, CD or digital track or album they bought with their own money.|Invite each person to name the artist and song or album, and share why they chose it.|Optionally ask whether they still listen to it or would rather erase the evidence.",
-    "tip": "This one often reveals generational differences and unexpected musical tastes. If someone hasn't bought music, ask about the first song or album they remember owning.",
-    "active": true
+    "tip": "This one often reveals generational differences and unexpected musical tastes. If someone hasn't bought music, ask about the first song or album they remember owning. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Talking"
   },
   {
     "id": "IB045",
@@ -536,8 +580,9 @@
     "maxPeople": 30,
     "description": "Draw a monster in 60 seconds. Give it a name, a completely useless superpower and one irrational fear, then introduce your creation to the group.",
     "instructions": "Give everyone paper and a pen, and set a 60-second timer to draw a monster.|Ask everyone to give their monster a name, a completely useless superpower and one irrational fear.|Invite people to show their drawings and introduce their monsters in about 30 seconds each.|Enjoy the wonderfully questionable artwork. No drawing ability required.",
-    "tip": "Lead with your own gloriously bad example. Keep it light and avoid judging artistic ability. In a larger group, share in smaller groups to keep within ten minutes.",
-    "active": true
+    "tip": "Lead with your own gloriously bad example. Keep it light and avoid judging artistic ability. In a larger group, share in smaller groups to keep within ten minutes. For larger groups, use pairs or small groups, or shorten individual shares to fit the time. Offer a seated or verbal alternative if needed.",
+    "active": true,
+    "interaction": "Drawing"
   },
   {
     "id": "IB046",
@@ -548,8 +593,9 @@
     "maxPeople": 30,
     "description": "Draw a flag that represents you. Include three symbols that reveal something about your personality, interests or values. Let everyone else guess what the symbols mean before you explain.",
     "instructions": "Give everyone paper and pens, and ask them to design a personal flag containing three symbols that represent their personality, interests or values.|Allow two or three minutes to draw. Artistic ability is entirely optional.|Invite each person to show their flag without explaining it. Others guess what the three symbols represent.|The flag's creator reveals what each symbol means and shares any surprising stories behind their choices.",
-    "tip": "Keep the guessing friendly and curious rather than treating interpretations as personality assessments. In larger groups, share flags in groups of three or four to stay within ten minutes.",
-    "active": true
+    "tip": "Keep the guessing friendly and curious rather than treating interpretations as personality assessments. In larger groups, share flags in groups of three or four to stay within ten minutes. Offer a seated or verbal alternative if needed.",
+    "active": true,
+    "interaction": "Drawing"
   },
   {
     "id": "IB047",
@@ -560,8 +606,9 @@
     "duration": 10,
     "description": "It's ten years from now. You've had an exceptionally good year, personally or professionally. Write a postcard to your present-day self describing what life looks like.",
     "instructions": "Invite everyone to imagine themselves ten years into the future, after an exceptionally good year.|Give everyone two or three minutes to write a short postcard to their present-day self. What has changed? What are they doing? What feels different?|Ask each person to share one sentence from their postcard, if they're comfortable.|Let the images of the future stand on their own without turning the activity into a planning exercise.",
-    "tip": "Keep the focus on possibilities rather than predictions. People can keep their postcard private and share only a detail they choose.",
-    "active": true
+    "tip": "Keep the focus on possibilities rather than predictions. People can keep their postcard private and share only a detail they choose. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB048",
@@ -572,8 +619,9 @@
     "duration": 10,
     "description": "Thinking about the next six months, what's one thing you'd like more of in your working life, and one thing you'd like less of?",
     "instructions": "Ask everyone to think about the next six months at work.|Give them a moment to identify one thing they'd like more of and one thing they'd like less of.|Invite each person to share their two answers in turn.|Listen without immediately debating, fixing or challenging anyone's choices.",
-    "tip": "This is a check-in, not an invitation to solve every problem in the room. Notice themes and offer to revisit them separately if useful.",
-    "active": true
+    "tip": "This is a check-in, not an invitation to solve every problem in the room. Notice themes and offer to revisit them separately if useful. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB049",
@@ -584,8 +632,9 @@
     "duration": 10,
     "description": "If failure were impossible, what would you try? It can be personal, professional or completely ridiculous. What makes it worth attempting?",
     "instructions": "Ask everyone: 'If you knew you couldn't fail, what would you attempt?'|Give people a minute to think.|Invite each person to share their answer and, if they wish, what makes it worth attempting.|Keep the discussion curious and avoid immediately testing whether the idea is realistic.",
-    "tip": "Make it clear that ambitions can be small, enormous, personal or playful. Nobody needs to disclose a private aspiration.",
-    "active": true
+    "tip": "Make it clear that ambitions can be small, enormous, personal or playful. Nobody needs to disclose a private aspiration. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB050",
@@ -596,8 +645,9 @@
     "duration": 10,
     "description": "If you could send a short message to yourself five years ago, what would it say? Would your younger self have listened?",
     "instructions": "Ask everyone to imagine sending one short piece of advice to themselves five years ago.|Give them a minute to think or write it down.|Invite each person to share their advice.|Optionally ask: 'Would your younger self have listened?' ",
-    "tip": "Keep the tone reflective rather than regretful. Participants can share something lighthearted or pass.",
-    "active": true
+    "tip": "Keep the tone reflective rather than regretful. Participants can share something lighthearted or pass. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB051",
@@ -608,8 +658,9 @@
     "duration": 10,
     "description": "What's something you used to believe strongly but have since changed your mind about? What changed your thinking?",
     "instructions": "Invite everyone to think of a belief or opinion they have changed over time. It can be trivial or meaningful.|Give people a minute to choose an example.|Ask each person to share what they once believed, what they believe now and what changed their mind.|Thank people for sharing without turning their past beliefs into a debate.",
-    "tip": "Start with a harmless example to set a curious, non-judgemental tone. Avoid pressuring people into personal or political disclosures.",
-    "active": true
+    "tip": "Start with a harmless example to set a curious, non-judgemental tone. Avoid pressuring people into personal or political disclosures. For larger groups, use pairs or small groups, or shorten individual shares to fit the time. Let people pass or keep personal details private.",
+    "active": true,
+    "interaction": "Reflecting"
   },
   {
     "id": "IB052",
@@ -620,7 +671,8 @@
     "duration": 10,
     "description": "Imagine someone has given you permission to stop doing one thing that adds little value. What would you stop?",
     "instructions": "Ask everyone to imagine they have full permission to stop doing one low-value activity at work.|Give them a moment to choose what they'd stop.|Invite each person to name their choice, with a brief explanation if they wish.|Listen for patterns, but don't turn the icebreaker into an approval process or action-planning meeting.",
-    "tip": "The imaginary permission is part of the exercise, not a real decision to discontinue work. If useful themes emerge, follow them up separately.",
-    "active": true
+    "tip": "The imaginary permission is part of the exercise, not a real decision to discontinue work. If useful themes emerge, follow them up separately. For larger groups, use pairs or small groups, or shorten individual shares to fit the time.",
+    "active": true,
+    "interaction": "Reflecting"
   }
 ]
