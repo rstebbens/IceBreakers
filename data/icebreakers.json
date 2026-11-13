@@ -695,8 +695,8 @@
     "duration": 10,
     "minPeople": 2,
     "maxPeople": 30,
-    "description": "Build your breakfast on a shared Miro board by choosing from an eclectic spread of food, drinks and questionable morning habits. Then explain your choices.",
-    "instructions": "Prepare a Miro board with a plate for each person and a buffet of movable items: croissants, coffee, cereal, fruit, leftover pizza, cigarettes, beer, champagne and anything else you fancy.|Invite everyone to drag their chosen items onto their plate to create their one ideal breakfast.|Give people a minute or two to assemble their plates.|Take a quick tour of the café. Each person shows their plate and explains their choices.",
+    "description": "Build your breakfast on a shared digital whiteboard by choosing from an eclectic spread of food, drinks and questionable morning habits. Then explain your choices.",
+    "instructions": "Prepare a shared digital whiteboard (Miro, Klaxoon, Mural or similar) with a plate for each person and a buffet of movable items: croissants, coffee, cereal, fruit, leftover pizza, cigarettes, beer, champagne and anything else you fancy.|Invite everyone to drag their chosen items onto their plate to create their one ideal breakfast.|Give people a minute or two to assemble their plates.|Take a quick tour of the café. Each person shows their plate and explains their choices.",
     "tip": "Keep the buffet absurd and the explanations light. One breakfast per person; we're not hobbits. For larger groups, share in small groups or invite a handful of particularly curious combinations.",
     "interaction": "Show & Tell",
     "active": true
