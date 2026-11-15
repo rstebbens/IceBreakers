@@ -156,11 +156,6 @@
   },
   {
     "activityId": "IB006",
-    "question": "Would you rather fight 100 duck-sized horses or one horse-sized duck?",
-    "active": true
-  },
-  {
-    "activityId": "IB006",
     "question": "Would you rather fight 100 ducks or one human-sized duck?",
     "active": true
   },
@@ -172,11 +167,6 @@
   {
     "activityId": "IB006",
     "question": "Would you rather always speak in rhymes or always sing instead of speaking?",
-    "active": true
-  },
-  {
-    "activityId": "IB006",
-    "question": "Would you rather have a rewind button or a pause button for your life?",
     "active": true
   },
   {
@@ -417,11 +407,6 @@
   {
     "activityId": "IB006",
     "question": "Would you rather have a button that mutes one person for a minute or one that skips any meeting's first five minutes?",
-    "active": true
-  },
-  {
-    "activityId": "IB006",
-    "question": "Would you rather be able to make any plant grow instantly or make any queue disappear?",
     "active": true
   },
   {
