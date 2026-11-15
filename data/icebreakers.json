@@ -700,5 +700,18 @@
     "tip": "Keep the buffet absurd and the explanations light. One breakfast per person; we're not hobbits. For larger groups, share in small groups or invite a handful of particularly curious combinations.",
     "interaction": "Show & Tell",
     "active": true
+  },
+  {
+    "id": "IB055",
+    "title": "Where in the World Have You Lived?",
+    "category": "Connection",
+    "duration": 15,
+    "minPeople": 2,
+    "maxPeople": 30,
+    "description": "Put a pin on a world map for every town, city or country where you've lived or worked. Holidays don't count: each place must be somewhere you've actually lived or worked.",
+    "instructions": "Open a shared world map on a digital whiteboard or put a large printed map where everyone can reach it.|Ask everyone to place a pin or marker on every town, city or country where they've lived or worked. Visiting on holiday doesn't count.|Take a look at the map together. Invite people to share an unexpected location or a short story about one of their pins.|Notice shared locations, surprising connections and how far the group's experiences reach.",
+    "tip": "Let people choose how precise to be: city or country is enough. Avoid asking for addresses or exact dates. For remote teams, use a shared digital whiteboard such as Miro, Klaxoon or Mural.",
+    "interaction": "Show & Tell",
+    "active": true
   }
 ]
